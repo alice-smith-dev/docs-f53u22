@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-duq5kf.bibo.bot/sitemap.xml
